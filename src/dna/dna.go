@@ -2,7 +2,6 @@ package dna
 
 import "errors"
 
-//const N = 6				// Dimension del array de ADN
 const M = 4				// Longitud de la secuencia buscada
 const Q = 2				// Cantidad de secuencias buscadas
 
